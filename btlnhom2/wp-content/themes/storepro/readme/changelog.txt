@@ -1,0 +1,23 @@
+1.0.4 - May 18, 2017
+* Fix featured product widget
+	inc/classes/widget-home-featured-products.php
+
+1.0.3 - April 11, 2017
+* Support WooCommerce 3.0
+	style.css
+	style.min.css
+	functions.php
+	woocommerce/
+
+1.0.2 - 09/03/2015
+* Update TGMPA
+* Support WordPress 4.3+
+* Support WooCommerce 2.4+
+
+1.0.1 - 10/21/2014
+* style.css - Fixed background of the "ins" element
+* readme.txt - Updated theme name
+* screenshot.png - Updated theme screenshot
+
+1.0.0 - 10/17/2014
+* Initial release
