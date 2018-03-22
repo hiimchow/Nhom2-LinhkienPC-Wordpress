@@ -1,0 +1,9 @@
+git config --global user.name "hiimchow"
+git config --global user.email ngngchau32@gmail.com
+git clone https://github.com/hiimchow/Nhom2-LinhkienPC-Wordpress.git
+cd Nhom2-LinhkienPC-Wordpress
+git add .
+git commit -m "Message gì dó"
+git tag Update-abc123
+git push origin master
+git push origin Update-abc123
