@@ -1,0 +1,219 @@
+********************************************************************************
+* DUPLICATOR-LITE: INSTALL-LOG
+* VERSION: 1.2.34
+* STEP-1 START @ 03:34:54
+* NOTICE: Do NOT post this data to public sites or forums
+********************************************************************************
+PHP VERSION:	7.2.2 | SAPI: apache2handler
+PHP TIME LIMIT:	[0] time limit restriction disabled
+PHP MEMORY:	2048M | SUHOSIN: disabled
+SERVER:		Apache/2.4.29 (Win32) OpenSSL/1.1.0g PHP/7.2.2
+DOC ROOT:	E:/xampp/htdocs/btlnhom2
+DOC ROOT 755:	true
+LOG FILE 644:	true
+REQUEST URL:	http://localhost/btlnhom2/btlnhom2_7c24a1aec1546f442729180320035837_installer.php
+SAFE MODE :	0
+--------------------------------------
+ARCHIVE EXTRACTION
+--------------------------------------
+NAME:	btlnhom2_7c24a1aec1546f442729180320035837_archive.zip
+SIZE:	59.08MB
+ZIP:	Enabled (ZipArchive Support)
+
+>>> START EXTRACTION:
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 8295
+    [filename] => E:\xampp\htdocs\btlnhom2\btlnhom2_7c24a1aec1546f442729180320035837_archive.zip
+    [comment] => 
+)
+File timestamp is 'Current' mode: 2018-03-22 03:36:37
+<<< EXTRACTION COMPLETE: true
+
+WEB SERVER CONFIGURATION FILE RESET:
+- Backup of .htaccess/web.config made to *.180322033637.orig
+- Reset of .htaccess/web.config files
+
+STEP-1 COMPLETE @ 03:36:37 - RUNTIME: 102.6567 sec.
+
+
+********************************************************************************
+* DUPLICATOR-LITE: INSTALL-LOG
+* STEP-2 START @ 03:37:23
+* NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+--------------------------------------
+DATABASE ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 10.1.30 -- Build Server: 10.1.25
+FILE SIZE:	database.sql (1.19MB) - installer-data.sql (1.19MB)
+TIMEOUT:	5000
+MAXPACK:	1048576
+SQLMODE:	NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+NEW SQL FILE:	[E:/xampp/htdocs/btlnhom2/installer-data.sql]
+COLLATE RESET:	On
+
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+ERRORS FOUND:	0
+TABLES DROPPED:	43
+QUERIES RAN:	389
+
+wp_commentmeta: (0)
+wp_comments: (1)
+wp_duplicator_packages: (1)
+wp_links: (0)
+wp_nextend2_image_storage: (10)
+wp_nextend2_section_storage: (5)
+wp_nextend2_smartslider3_generators: (0)
+wp_nextend2_smartslider3_sliders: (3)
+wp_nextend2_smartslider3_sliders_xref: (2)
+wp_nextend2_smartslider3_slides: (13)
+wp_options: (541)
+wp_postmeta: (1258)
+wp_posts: (240)
+wp_term_relationships: (105)
+wp_term_taxonomy: (69)
+wp_termmeta: (133)
+wp_terms: (69)
+wp_usermeta: (31)
+wp_users: (1)
+wp_wc_download_log: (0)
+wp_wc_webhooks: (0)
+wp_woocommerce_api_keys: (0)
+wp_woocommerce_attribute_taxonomies: (2)
+wp_woocommerce_downloadable_product_permissions: (0)
+wp_woocommerce_log: (0)
+wp_woocommerce_order_itemmeta: (0)
+wp_woocommerce_order_items: (0)
+wp_woocommerce_payment_tokenmeta: (0)
+wp_woocommerce_payment_tokens: (0)
+wp_woocommerce_sessions: (1)
+wp_woocommerce_shipping_zone_locations: (1)
+wp_woocommerce_shipping_zone_methods: (2)
+wp_woocommerce_shipping_zones: (1)
+wp_woocommerce_tax_rate_locations: (0)
+wp_woocommerce_tax_rates: (1)
+wp_wplc_chat_msgs: (6)
+wp_wplc_chat_sessions: (1)
+wp_wplc_offline_messages: (0)
+wp_wplc_webhooks: (0)
+wp_yith_wcwl: (0)
+wp_yith_wcwl_lists: (1)
+wp_yoast_seo_links: (0)
+wp_yoast_seo_meta: (147)
+
+Removed '70' cache/transient rows
+
+CREATE/INSTALL RUNTIME: 15.2320 sec.
+STEP-2 COMPLETE @ 03:37:47 - RUNTIME: 23.4879 sec.
+
+
+********************************************************************************
+* DUPLICATOR-LITE: INSTALL-LOG
+* STEP-3 START @ 03:39:40
+* NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	latin1
+CHARSET CLIENT:	utf8
+--------------------------------------
+SERIALIZER ENGINE
+[*] scan every column
+[~] scan only text columns
+[^] no searchable columns
+--------------------------------------
+wp_commentmeta^ (0)
+wp_comments~ (1)
+wp_duplicator_packages^ (0)
+wp_links^ (0)
+wp_nextend2_image_storage~ (10)
+wp_nextend2_section_storage~ (5)
+wp_nextend2_smartslider3_generators^ (0)
+wp_nextend2_smartslider3_sliders~ (3)
+wp_nextend2_smartslider3_sliders_xref~ (2)
+wp_nextend2_smartslider3_slides~ (13)
+wp_options~ (469)
+wp_postmeta~ (1258)
+wp_posts~ (240)
+wp_term_relationships~ (105)
+wp_term_taxonomy~ (69)
+wp_termmeta~ (133)
+wp_terms~ (69)
+wp_usermeta~ (31)
+wp_users~ (1)
+wp_wc_download_log^ (0)
+wp_wc_webhooks^ (0)
+wp_woocommerce_api_keys^ (0)
+wp_woocommerce_attribute_taxonomies~ (2)
+wp_woocommerce_downloadable_product_permissions^ (0)
+wp_woocommerce_log^ (0)
+wp_woocommerce_order_itemmeta^ (0)
+wp_woocommerce_order_items^ (0)
+wp_woocommerce_payment_tokenmeta^ (0)
+wp_woocommerce_payment_tokens^ (0)
+wp_woocommerce_sessions~ (1)
+wp_woocommerce_shipping_zone_locations~ (1)
+wp_woocommerce_shipping_zone_methods~ (2)
+wp_woocommerce_shipping_zones~ (1)
+wp_woocommerce_tax_rate_locations^ (0)
+wp_woocommerce_tax_rates~ (1)
+wp_wplc_chat_msgs~ (6)
+wp_wplc_chat_sessions~ (1)
+wp_wplc_offline_messages^ (0)
+wp_wplc_webhooks^ (0)
+wp_yith_wcwl^ (0)
+wp_yith_wcwl_lists~ (1)
+wp_yoast_seo_links^ (0)
+wp_yoast_seo_meta~ (147)
+--------------------------------------
+Search1:	'C:/xampp/htdocs/btlnhom2' 
+Change1:	'E:/xampp/htdocs/btlnhom2' 
+Search2:	'C:\/xampp\/htdocs\/btlnhom2' 
+Change2:	'E:\/xampp\/htdocs\/btlnhom2' 
+Search3:	'C%3A%2Fxampp%2Fhtdocs%2Fbtlnhom2%2F' 
+Change3:	'E%3A%2Fxampp%2Fhtdocs%2Fbtlnhom2%2F' 
+Search4:	'C:\xampp\htdocs\btlnhom2' 
+Change4:	'E:/xampp/htdocs/btlnhom2' 
+Search5:	'//localhost/btlnhom2' 
+Change5:	'//localhost/btlnhom2' 
+Search6:	'\/\/localhost\/btlnhom2' 
+Change6:	'\/\/localhost\/btlnhom2' 
+Search7:	'%2F%2Flocalhost%2Fbtlnhom2' 
+Change7:	'%2F%2Flocalhost%2Fbtlnhom2' 
+SCANNED:	Tables:43 	|	 Rows:2572 	|	 Cells:14957 
+UPDATED:	Tables:0 	|	 Rows:2 	|	 Cells:2 
+ERRORS:		0 
+RUNTIME:	1.525200 sec
+
+====================================
+CONFIGURATION FILE UPDATES:
+====================================
+
+UPDATED WP-CONFIG: /wp-config.php' (if present)
+
+WEB SERVER CONFIGURATION FILE BASIC SETUP:
+- Preparing .htaccess file with basic setup.
+Basic .htaccess file edit complete.  If using IIS web.config this process will need to be done manually.
+
+====================================
+GENERAL UPDATES & CLEANUP:
+====================================
+
+NEW WP-ADMIN USER: New username 'PhamAnhTu' was created successfully 
+ 
+- Created directory wp-snapshots
+- Created file wp-snapshots/index.php
+
+====================================
+NOTICES
+====================================
+
+No Notices Found
+
+
+STEP 3 COMPLETE @ 03:39:42 - RUNTIME: 2.3524 sec.
+
+
